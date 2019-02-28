@@ -1,0 +1,370 @@
+
+
+<html>
+<head>
+
+<style type="text/css">
+
+p {display: inline}
+
+#d{background-color: #80a8cc;
+   width:1700px;
+  height:4750px;
+   }
+
+#d1 {position:relative;
+  top:50px;
+  text-align:center;
+  width:1600px;
+  height:4080px;
+  margin:30px;
+  background-color:#fcf9f4;
+}
+
+#d2 {
+  width:1600px;
+  height:100px;
+  background-color:#fcf9f4;
+}
+
+#d3 {position:relative;
+  top:1200px;
+  width:1600px;
+  height:500px;
+  background-color:#fcf9f4;
+}
+
+#d4 {position:relative;
+  top:1200px;
+  width:1600px;
+  height:700px;
+  background-color:#91d0b1;
+}
+
+#d5 {position:relative;
+  top:1000px;
+  width:1600px;
+  height:700px;
+  background-color:#ffcd62;
+}
+
+#d6 {position:relative;
+  top:1000px;
+  width:1600px;
+  height:700px;
+  background-color:#80a8cc;
+}
+
+#d7 {position:relative;
+  top:1000px;
+  width:1600px;
+  height:840px;
+  background-color:#fcf9f4;
+}
+
+#d8 {position:relative;
+  top:1000px;
+  width:1600px;
+  height:100px;
+  background-color:#d4d2d0;
+}
+
+
+p.pos_left1
+{
+position:relative;
+left:400px;
+}
+
+p.pos_left2
+{
+position:relative;
+left:-183px;
+top:-50px;
+color:#d8d6d5;
+}
+
+p.pos_left3
+{
+position:relative;
+left:-141px;
+top:-50px;
+color:#d8d6d5;
+}
+
+p.pos_left4
+{
+position:relative;
+left:-99px;
+top:-50px;
+color:#d8d6d5;
+}
+
+p.pos_left5
+{
+position:relative;
+left:-57px;
+top:-50px;
+color:#d8d6d5;
+}
+
+p.pos_left6
+{
+   
+   position:relative;
+   left:350px;
+   top:-50px;
+   color:#4d4e59;
+   border-style: groove;
+
+}
+
+p.pos_left7
+{
+position:relative;
+left:1200px;
+top:-120px;
+}
+
+p.pos_left8
+{   position:relative;
+    left:0px;
+    top:-100px;
+    font-size:52px;
+    color:#4d4e59;
+    font-family:Georgia, serif; 
+}
+
+p.pos_left9
+{   position:relative;
+    left:0px;
+    top:-32px;
+    font-size:20px;
+    color:#636471;
+    font-family:Open Sans; 
+}
+
+p.pos_left10
+{   position:relative;
+    left:0px;
+    top:64px;
+    font-size:20px;
+    color:#636471;
+    font-family:Open Sans;
+    width:300px;
+    height:50px;
+    background-color: #ffcd62;
+}
+
+p.pos_left11
+{   position:absolute;
+    left:800px;
+    top:130px;
+    font-size:52px;
+    color:#fcf9f4;
+    font-family:Georgia, serif;
+}
+p.pos_left12
+{  
+    position:absolute;
+     left:800px;
+    top:234px;
+    font-size:20px;
+    color:#fcf9f4;
+    font-family:Open Sans;
+    text-align:left;
+}
+
+p.pos_left13
+{  
+    position:absolute;
+     left:800px;
+    top:430px;
+    font-size:20px;
+    color:#fcf9f4;
+    font-family:Open Sans;
+    text-align:left;
+    background-color: #D3D3D3;
+}
+
+p.pos_left14
+{    position:absolute;
+    left:100px;
+    top:120px;
+    font-size:52px;
+    color:#fcf9f4;
+    font-family:Georgia, serif;
+}
+p.pos_left15
+{  
+    position:absolute;
+     left:100px;
+    top:234px;
+    font-size:20px;
+    color:#fcf9f4;
+    font-family:Open Sans;
+    text-align:left;
+}
+
+p.pos_left16
+{  
+    position:absolute;
+     left:100px;
+    top:430px;
+    font-size:20px;
+    color:#fcf9f4;
+    font-family:Open Sans;
+    text-align:left;
+    background-color: #D3D3D3;
+}
+
+p.pos_left17
+{   position:relative;
+    left:0px;
+    top:100px;
+    font-size:52px;
+    color:#4d4e59;
+    font-family:Georgia, serif; 
+}
+
+
+p.pos_left18
+{   position:absolute;
+    left:0px;
+    top:280px;
+    font-size:72px;
+    color:#ffcd62;
+    font-family:Georgia, serif; 
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="d">
+<center>
+<div id="d1">
+
+    <div id="d2">
+
+    <p class="pos_left1">
+    <table style="
+                 height:100px;
+                 border-color:#eae7e2;
+                 border-left-style:solid;
+                 border-width:1px"
+    >
+   <tr>
+   <td valign="top">
+   </td>
+   </tr>
+   </table>
+   </p>
+
+<p class="pos_left2">Home</p>
+<p class="pos_left3">How It Works</p>
+<p class="pos_left4">About As</p>
+<p class="pos_left5">Sign In</p>
+<p class="pos_left6">Donate</p>
+
+<p class="pos_left7">
+   <table style="
+                 height:100px;
+                 border-color:#eae7e2;
+                 border-left-style:solid;
+                 border-width:1px"
+    >
+   <tr>
+   <td valign="top">
+   </td>
+   </tr>
+   </table>
+   </p>
+</div>
+
+<div style="position:relative">
+
+    <div style="position:absolute; background:url('http://dpic.tiankong.com/a2/3g/QJ6462350178.jpg')no-repeat;height:794px; width:1600px; background-size:100%;opacity:0.4">
+    </div>
+    
+    <div style="position:absolute;
+    top:300px;
+    left:200px;
+    font-size:60px;
+    color:#ffffff;
+    font-family:'Amatica SC',cursive;">ONLINE TUTORING. ALWAYS FREE AND AVAILABLE.</div>
+
+    <div style="position:absolute;
+    top:430px;
+    left:510px;
+    font-size:24px;
+    color:#ffffff;
+    font-family:'Amatica SC',cursive;">I'M A STUDENT</div>
+
+   <div style="position:absolute;
+    top:430px;
+    left:950px;
+    font-size:24px;
+    color:#ffffff;
+    font-family:'Amatica SC',cursive;    
+    border-color:#eae7e2;
+    border-style:solid;
+    border-width:1px;">I'M A TUTOR</div>
+</div>
+
+<div id="d3">
+<p class="pos_left8">MISSION</p></br>
+<p class="pos_left9">The Learn To Be Foundation Is On a mission to provide 100% free,1-on-1,online tutoring to students everywhere</p></br>
+<p class="pos_left10">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDonate&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+ </div>
+
+<div id="d4">
+<p class="pos_left11">STUDENTS</p></br>
+<p class="pos_left12">
+We offer students 100% free online tutoring<br>
+almost 24 hours a day. Strugging with a<br> 
+homework problem? Don't understand a<br> 
+concept you're learning? Don't worrry,we've<br> 
+got you.</p>
+<p class="pos_left13">&nbsp&nbsp&nbsp&nbsp&nbspStart Learning&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+ </div>
+<div id="d5">
+<p class="pos_left14">PROSPECTIVE TUTORS</p></br>
+
+<p class="pos_left15">
+Jion our team of over 600 tutors who are</br>
+dedicated to providing individualized attention</br>
+to students around the world. Tutor at</br>
+your convenience and make a real impact.
+</p></br>
+<p class="pos_left16">&nbsp&nbsp&nbsp&nbsp&nbspJoin Us&nbsp&nbsp&nbsp&nbsp&nbsp</p></br>
+ </div>
+<div id="d6">
+<p class="pos_left11">PARTNERS</p></br>
+<p class="pos_left12">
+We are dedicated to partnering with schools<br>
+and organizations that help to further our<br> 
+mission of providing individualized online tu-<br> 
+toring to kids living in underserved communities.<br> </p>
+<p class="pos_left13">&nbsp&nbsp&nbsp&nbsp&nbspHelp Us&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+ </div>
+
+<div id="d7">
+<p class="pos_left17">OUR PROGRESS</p>
+<p class="pos_left18">25000</p>
+ </div>
+
+<div id="d8">
+ </div>
+
+ </div>
+</center>
+ </div>
+
+
+
+
+</body>
+</html>
